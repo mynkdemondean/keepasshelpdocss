@@ -2,8 +2,8 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Breezeline Login Account Guide'
-author = 'Independent Service Provider'
+project = 'Keepass Login Account Guide'
+author = 'Keepass Login Account Guide'
 release = '1.0'
 
 extensions = []
